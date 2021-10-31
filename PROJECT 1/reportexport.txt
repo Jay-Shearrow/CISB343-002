@@ -1,0 +1,26 @@
+[
+	{
+		"metadata": {
+			"outputType": "stream"
+		},
+		"outputItems": [
+			{
+				"mimeType": "application/vnd.code.notebook.stdout",
+				"data": "The accuracy of Perceptron is\n              precision    recall  f1-score   support\n\n           1       1.00      1.00      1.00        21\n           2       1.00      1.00      1.00        10\n           3       0.50      0.50      0.50         2\n           4       1.00      1.00      1.00         7\n           5       1.00      0.50      0.67         2\n           6       1.00      1.00      1.00         4\n           7       0.83      1.00      0.91         5\n\n    accuracy                           0.96        51\n   macro avg       0.90      0.86      0.87        51\nweighted avg       0.96      0.96      0.96        51\n\nThe accuracy of SVM is\n              precision    recall  f1-score   support\n\n           1       1.00      1.00      1.00        31\n           2       0.94      1.00      0.97        15\n           3       1.00      0.50      0.67         4\n           4       0.91      1.00      0.95        10\n           5       1.00      1.00      1.00         3\n           6       0.50      0.67      0.57         6\n           7       0.60      0.43      0.50         7\n\n    accuracy                           0.89        76\n   macro avg       0.85      0.80      0.81        76\nweighted avg       0.90      0.89      0.89        76\n\nThe accuracy of Logistic Regression is\n              precision    recall  f1-score   support\n\n           1       1.00      1.00      1.00        21\n           2       1.00      1.00      1.00        10\n           3       0.50      0.50      0.50         2\n           4       1.00      1.00      1.00         7\n           5       1.00      0.50      0.67         2\n           6       1.00      1.00      1.00         4\n           7       0.83      1.00      0.91         5\n\n    accuracy                           0.96        51\n   macro avg       0.90      0.86      0.87        51\nweighted avg       0.96      0.96      0.96        51\n\nThe accuracy of K Nearest Neighbors is\n              precision    recall  f1-score   support\n\n           1       1.00      1.00      1.00        13\n           2       1.00      1.00      1.00         6\n           3       1.00      0.50      0.67         2\n           4       0.80      1.00      0.89         4\n           5       1.00      1.00      1.00         1\n           6       1.00      1.00      1.00         2\n           7       1.00      1.00      1.00         3\n\n    accuracy                           0.97        31\n   macro avg       0.97      0.93      0.94        31\nweighted avg       0.97      0.97      0.96        31\n\nThe accuracy of Random Forest is\n              precision    recall  f1-score   support\n\n           1       1.00      1.00      1.00        13\n           2       1.00      1.00      1.00         6\n           3       0.00      0.00      0.00         2\n           4       1.00      1.00      1.00         4\n           5       0.00      0.00      0.00         1\n           6       0.00      0.00      0.00         2\n           7       0.38      1.00      0.55         3\n\n    accuracy                           0.84        31\n   macro avg       0.48      0.57      0.51        31\nweighted avg       0.78      0.84      0.79        31\n\n"
+			}
+		]
+	},
+	{
+		"metadata": {
+			"outputType": "execute_result",
+			"executionCount": 124,
+			"metadata": {}
+		},
+		"outputItems": [
+			{
+				"mimeType": "text/plain",
+				"data": "(None, None)"
+			}
+		]
+	}
+]
